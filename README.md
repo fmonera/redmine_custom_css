@@ -1,3 +1,5 @@
+(this is a fork of the original project with modifications to allow integration with EasyRedmine)
+
 # Redmine Custom CSS plugin
 
 Allows to input CSS directly from Redmine to customize Redmine appearance.
